@@ -8,6 +8,11 @@ h1{
 
 video{
   margin:5%;
+  border: 3px solid #ff7979;
+  padding: 10px;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  -moz-box-shadow:    3px 3px 5px 6px #ccc; 
+  box-shadow:         3px 3px 5px 6px #ccc;
 }
 
 *{
